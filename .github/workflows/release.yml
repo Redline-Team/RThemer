@@ -9,7 +9,7 @@ on:
 env:
   packageName: "dev.redline-team.rthemer"
   packagePath: "Packages/dev.redline-team.rthemer"
-  packageFileName: "Redline Themer"
+  packageFileName: "RedlineThemer"
   packageReleaseName: "Bleeding Edge"
 
 permissions:
